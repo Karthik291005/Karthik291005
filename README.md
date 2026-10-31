@@ -1,141 +1,132 @@
-<!-- Header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Banda%20Karthik&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Engineer%20%C2%B7%20Full-Stack%20Builder&descAlignY=58&descSize=18" alt="Banda Karthik banner" />
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&lines=Final-year+B.Tech+%E2%80%94+AI+%26+Data+Science;GNN+Research+Intern+%40+IIT+Guwahati;Java+%C2%B7+Python+%C2%B7+Spring+%C2%B7+Angular;Building+things+real+clients+use+daily)](https://karthik291005.github.io/My_Portfolio)
+<img src="https://raw.githubusercontent.com/karthik291005/karthik291005/main/hero.svg" alt="Banda Karthik - AI and Data Science, Java Full-Stack" width="100%" />
 
-<a href="https://karthik291005.github.io/My_Portfolio"><img src="https://img.shields.io/badge/Portfolio-Visit-58A6FF?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/banda-karthik-1a20752a6/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:bandakarthik16@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://drive.google.com/uc?export=download&id=1ci1-1yaXNluaHbpE25oauwLr5PnS5oeO"><img src="https://img.shields.io/badge/Resume-Download-2ea44f?style=for-the-badge&logo=googledocs&logoColor=white" /></a>
+**AI and Data Science** &nbsp;•&nbsp; **Java Full-Stack Developer** &nbsp;•&nbsp; **Research Intern at IIT Guwahati**
 
-<img src="https://komarev.com/ghpvc/?username=karthik291005&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+<a href="https://karthik291005.github.io/My_Portfolio"><img src="https://img.shields.io/badge/Portfolio-Live-1f6feb?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
+<a href="https://raw.githubusercontent.com/karthik291005/karthik291005/main/Banda_Karthik_Resume.pdf"><img src="https://img.shields.io/badge/Resume-View_PDF-2ea44f?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume" /></a>
+<a href="https://www.linkedin.com/in/banda-karthik-1a20752a6/"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:bandakarthik16@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/karthik291005?tab=repositories"><img src="https://img.shields.io/badge/Open_to-Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="Open to work" /></a>
+
+<img src="https://komarev.com/ghpvc/?username=karthik291005&style=for-the-badge&color=0f172a&label=Profile+views" alt="Profile views" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👤 About Me
 
-```json
-{
-  "name": "Banda Karthik",
-  "role": "AI & Data Science Student",
-  "college": "Lakireddy Bali Reddy College of Engineering, Mylavaram",
-  "cgpa": 9.03,
-  "location": "Vijayawada, Andhra Pradesh, India",
-  "gate_2026_air": 7275,
-  "open_to_work": true
-}
-```
+I'm a final-year **B.Tech student in AI and Data Science** at **Lakireddy Bali Reddy College of Engineering**, Mylavaram. I enjoy turning ideas into working products, from a Spring Boot real-time chat application to a graph neural network that predicts crystal energies, and building responsive websites that real clients use every day.
 
-- 🎓 Final-year B.Tech in **AI & Data Science** at LBRCE
-- 🔬 Research Intern at **IIT Guwahati**: built a Graph Neural Network pipeline for crystal materials
-- ☕ Java Intern at **Mindenious Edutech**: multi-threaded systems in Core Java
-- 🌐 Freelance web developer building responsive sites for **real clients**
-- 🎤 Student Convenor of the Spoorthi Club, Student In-charge of Spandana Magazine, Central Coordinator for college fests
-- 🚀 Currently upskilling in **Spring Boot, Microservices, Angular, DevOps**
-- 📫 Open to full-time roles and internships in **AI, Data Science, and Full-Stack Development**
+- 📍 **Location:** Vijayawada, Andhra Pradesh, India
+- 🎓 **Education:** B.Tech, AI and Data Science (CGPA 9.03), graduating 2027
+- 📊 **GATE 2026:** All India Rank 7275
+- 🎤 **Leadership:** Student Convener, Spoorthi Club, LBRCE
 
 ---
 
-## 🛠️ Tech Stack
+## 🎯 What I'm Doing Now
+
+- ☕ **Java Full-Stack:** Building backend systems with Spring Boot, Hibernate and WebSocket/STOMP, with Angular on the frontend.
+- 🔬 **Applied AI:** Working with graph neural networks for materials science, after my research internship at IIT Guwahati.
+- 🌐 **Client Work:** Designing and shipping responsive websites for startups and academics.
+- 🔎 **Looking for:** Full-time roles and internships in AI, Data Science and Full-Stack Development.
+
+---
+
+## 🛠 Tech Stack
 
 **Languages**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java,python,c,js,html,css&perline=6" alt="Languages" />
 
-**Web & Backend**
+**Frameworks and Libraries**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=spring,hibernate,angular,bootstrap,pytorch,sklearn&perline=6" alt="Frameworks" />
 
-**AI / ML / Deep Learning**
+**Data and AI**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![PyTorch Geometric](https://img.shields.io/badge/PyG-3C2179?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square)
-![Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+<img src="https://skillicons.dev/icons?i=mysql,numpy,pandas&perline=3" alt="Data" />
 
 **Tools**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+<img src="https://skillicons.dev/icons?i=git,github,maven,vscode&perline=4" alt="Tools" />
+
+<sub>Also: PyTorch Geometric · Oracle DB · WebSocket · STOMP · PWA and Service Workers · Google Colab</sub>
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | What it does | Tech | Links |
-|---|---|---|---|
-| 🧪 **Crystal Energy Prediction (GNN)** | MPNN with CGConv and Gaussian-smeared edge features to predict DFT energies from crystal structures. **R² = 0.974** across 160 structures, GPU-trained on Colab | `Python` `PyTorch` `PyG` `ASE` | [Code](https://github.com/Karthik291005) |
-| 🍔 **Al-Barakah's Food Delivery** | Ordering site for a real startup: cart, delivery charge calc, dark/light mode, WhatsApp order integration | `HTML` `CSS` `JS` | [Live](https://karthik291005.github.io/Al-Barakahs/) · [Code](https://github.com/Karthik291005/Al-Barakahs) |
-| 🏠 **WiseCrest Real Estate** | Mobile-first property showcase with an interactive "Get Quote" lead-gen flow | `HTML` `CSS` `JS` | [Live](https://karthik291005.github.io/wisecrest/) · [Code](https://github.com/Karthik291005/wisecrest) |
-| 🛗 **Elevator System Simulation** | Multi-threaded Core Java simulation with synchronization and locking; **25% fewer critical errors** via exception handling | `Java` `Multithreading` | [Code](https://github.com/Karthik291005/internship) |
-| 🎓 **Dr. Pamu Dobbidi, Academic Portfolio** | 6-page responsive site for an IIT Guwahati professor: carousel, lightbox gallery, announcement ticker | `HTML` `CSS` `JS` | [Live](https://karthik291005.github.io/Portfolio/) · [Code](https://github.com/Karthik291005/Portfolio) |
-| 🎓 **Dr. Kalyani Dasari, Academic Portfolio** | 6-page responsive site for principal of Adi Kavi Nannayya University: carousel, lightbox gallery, announcement ticker | `HTML` `CSS` `JS` | [Live](https://karthik291005.github.io/aknuport/) · [Code](https://github.com/Karthik291005/aknuport) |
-| ✍️ **Personal Blog Website** | Responsive blog built for a real client, optimized client-side scripting | `HTML` `CSS` `JS` | [Live](https://karthik291005.github.io/prasad-s/) · [Code](https://github.com/Karthik291005/prasad-s) |
+### Full-Stack and Backend
+
+- **[ChatzApplication](https://github.com/Karthik291005/ChatzApplication):** Real-time one-to-one chat application with registration and login. Layered Spring Boot backend (Controller, Service, Repository) with three Oracle tables mapped through Hibernate, and instant messaging over WebSocket and STOMP. *(Java, Spring Boot, Hibernate, Oracle DB, WebSocket, STOMP, Maven, HTML, CSS, JavaScript)*
+- **[Elevator System Simulation](https://github.com/Karthik291005/internship):** Core Java elevator simulation handling multi-floor requests (floors 0 to 10) with SCAN-based scheduling on a `TreeSet`, enum-based direction states and `InterruptedException` handling. *(Java, OOP)*
+
+### Web Development (built for real clients)
+
+- **[Al-Barakah's Food Ordering](https://karthik291005.github.io/Al-Barakahs/)** ([code](https://github.com/Karthik291005/Al-Barakahs)): Ordering website for a fruit bowl startup with persistent cart, zone-based delivery pricing, WhatsApp order integration and offline PWA support. *(HTML, CSS, JavaScript, Service Workers)*
+- **[WiseCrest Real Estate](https://karthik291005.github.io/wisecrest/)** ([code](https://github.com/Karthik291005/wisecrest)): Mobile-first property showcase with an interactive "Get Quote" lead generation flow. *(HTML, CSS, JavaScript)*
+- **[Academic Portfolio: Dr. Pamu Dobbidi](https://karthik291005.github.io/Portfolio/)** ([code](https://github.com/Karthik291005/Portfolio)): Six-page responsive site for an IIT Guwahati professor with carousel, lightbox gallery and announcement ticker. *(HTML, CSS, JavaScript)*
+- **[Academic Portfolio: Dr. Kalyani Dasari](https://karthik291005.github.io/aknuport/)** ([code](https://github.com/Karthik291005/aknuport)): Six-page responsive academic site with carousel, lightbox gallery and announcement ticker. *(HTML, CSS, JavaScript)*
+- **[Personal Blog Website](https://karthik291005.github.io/prasad-s/)** ([code](https://github.com/Karthik291005/prasad-s)): Responsive blog built for a client, tuned for fast client-side interactions. *(HTML, CSS, JavaScript)*
+
+### Research
+
+- **GNN for Crystal Energy Prediction (IIT Guwahati):** Group project on an MPNN-based pipeline that predicts DFT energies of ZrO₂ crystal alloys, reaching **R² = 0.974** against a 0.789 baseline and enabling millisecond predictions in place of hours-long Quantum ESPRESSO runs. *(Python, PyTorch, PyTorch Geometric, ASE)*
 
 ---
 
-## 💼 Experience
+## 💼 Experience and Milestones
 
-**🔬 Research Intern — IIT Guwahati** · *May 2026 – Jul 2026*
-Built a GNN pipeline (PyTorch Geometric + ASE) to predict material properties fr| 🎓 **Dr. Pamu Dobbidi, Academic Portfolio** | 6-page responsive site for an IIT Guwahati professor: carousel, lightbox gallery, announcement ticker | `HTML` `CSS` `JS` | [Live](https://karthik291005.github.io/Portfolio/) · [Code](https://github.com/Karthik291005/Portfolio) |om crystal structures, evaluated with R², MAE, MSE and RMSE.
-
-**☕ Java Intern — Mindenious Edutech** · *May 2025 – Jul 2025*
-Developed a multi-threaded elevator simulation using OOP, threads and exception handling, plus file-based configuration.
+- 🔬 **Research Intern, IIT Guwahati** *(May 2026 – Jul 2026)*: Contributed to the GNN pipeline, parsed geometry files with regex, built atom-bond graphs with atomic and RBF edge features, and supported model evaluation (R², MAE, RMSE).
+- ☕ **Java Intern, Mindenious Edutech** *(May 2025 – Jul 2025, Remote)*: Developed a Core Java elevator simulation using SCAN scheduling, enums and exception handling.
+- 🎤 **Student Convener, Spoorthi Club, LBRCE** *(Aug 2025 – May 2026)*
+- 🎪 **Central Coordinator, Lakshya 2K26, LBRCE** *(Dec 2025 – Jan 2026)*
 
 ---
 
-## 🏆 Achievements & Certifications
+## 🏆 Achievements and Certifications
 
+- 📊 **GATE 2026:** All India Rank 7275
 - 🥇 **First Prize**, Paper Presentation, Lakshya 2K25
-- 🥈 **Second Prize**, College Hackathon
-- 📊 **GATE 2026**: AIR 7275
-- 🎖️ Best Performer award, Literary Club
-- 📜 Java Basic (HackerRank) · HTML & Python Fundamentals (Infosys Springboard) · Cyber Security Essentials (Cisco)
+- 🥈 **Second Prize**, Hackathon, LBRCE
+- 🎖 **Best Performer Award**, Spoorthi Literary Club, LBRCE
+- 📜 **Certifications:** AWS Academy Generative AI Fundamentals (Jun 2026) · Infosys Springboard HTML (Apr 2025) · HackerRank Java Basic (Oct 2024)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=karthik291005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthik291005&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+<img src="https://streak-stats.demolab.com?user=karthik291005&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
-<img src="https://streak-stats.demolab.com?user=karthik291005&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=karthik291005&theme=tokyo-night&hide_border=true" alt="Contribution graph" width="95%" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karthik291005/karthik291005/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/karthik291005/karthik291005/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/karthik291005/karthik291005/output/github-contribution-grid-snake.svg" width="95%" />
+</picture>
 
 </div>
 
 ---
 
-## 🤝 Let's Connect
-
-I'm looking for opportunities in **AI / Data Science** and **Full-Stack Development**. If you have a project, an internship, or just want to talk tech, reach out!
+## 🤝 Connect With Me
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/-karthik291005.github.io-58A6FF?style=flat-square&logo=githubpages&logoColor=white)](https://karthik291005.github.io/My_Portfolio)
-[![LinkedIn](https://img.shields.io/badge/-banda--karthik-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/banda-karthik-1a20752a6/)
-[![Gmail](https://img.shields.io/badge/-bandakarthik16@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:bandakarthik16@gmail.com)
+<a href="https://karthik291005.github.io/My_Portfolio"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
+<a href="https://raw.githubusercontent.com/karthik291005/karthik291005/main/Banda_Karthik_Resume.pdf"><img src="https://img.shields.io/badge/Resume-2ea44f?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume" /></a>
+<a href="https://www.linkedin.com/in/banda-karthik-1a20752a6/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:bandakarthik16@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" alt="" width="100%" />
+
+*Building intelligent systems, scalable applications and useful products.*
 
 </div>
