@@ -64,41 +64,41 @@ I'm a final-year **B.Tech student in AI and Data Science** at **Lakireddy Bali R
 <table>
 <tr>
 <td width="50%" align="center">
-<a href="https://github.com/Karthik291005/ChatzApplication"><img src="https://raw.githubusercontent.com/Karthik291005/Karthik291005/main/assets/chatz.svg" alt="ChatzApplication" width="100%" /></a><br />
+<a href="https://github.com/Karthik291005/ChatzApplication"><img src="https://raw.githubusercontent.com/Karthik291005/Karthik291005/main/chatz.svg" alt="ChatzApplication" width="100%" /></a><br />
 <a href="https://github.com/Karthik291005/ChatzApplication">Source Code</a>
 </td>
 <td width="50%" align="center">
-<img src="https://raw.githubusercontent.com/Karthik291005/Karthik291005/main/assets/gnn.svg" alt="GNN Crystal Energy Prediction" width="100%" /><br />
+<img src="https://raw.githubusercontent.com/Karthik291005/Karthik291005/main/gnn.svg" alt="GNN Crystal Energy Prediction" width="100%" /><br />
 <sub>Research at IIT Guwahati</sub>
 </td>
 </tr>
 <tr>
 <td width="50%" align="center">
-<a href="https://github.com/Karthik291005/internship"><img src="https://raw.githubusercontent.com/Karthik291005/Karthik291005/main/assets/elevator.svg" alt="Elevator System Simulation" width="100%" /></a><br />
+<a href="https://github.com/Karthik291005/internship"><img src="https://raw.githubusercontent.com/Karthik291005/Karthik291005/main/elevator.svg" alt="Elevator System Simulation" width="100%" /></a><br />
 <a href="https://github.com/Karthik291005/internship">Source Code</a>
 </td>
 <td width="50%" align="center">
-<a href="https://karthik291005.github.io/Al-Barakahs/"><img src="https://raw.githubusercontent.com/Karthik291005/Karthik291005/main/assets/albarakah.svg" alt="Al-Barakah's Food Ordering" width="100%" /></a><br />
+<a href="https://karthik291005.github.io/Al-Barakahs/"><img src="https://raw.githubusercontent.com/Karthik291005/Karthik291005/main/albarakah.svg" alt="Al-Barakah's Food Ordering" width="100%" /></a><br />
 <a href="https://karthik291005.github.io/Al-Barakahs/">Live Demo</a> &nbsp;·&nbsp; <a href="https://github.com/Karthik291005/Al-Barakahs">Source Code</a>
 </td>
 </tr>
 <tr>
 <td width="50%" align="center">
-<a href="https://karthik291005.github.io/wisecrest/"><img src="https://raw.githubusercontent.com/Karthik291005/Karthik291005/main/assets/wisecrest.svg" alt="WiseCrest Real Estate" width="100%" /></a><br />
+<a href="https://karthik291005.github.io/wisecrest/"><img src="https://raw.githubusercontent.com/Karthik291005/Karthik291005/main/wisecrest.svg" alt="WiseCrest Real Estate" width="100%" /></a><br />
 <a href="https://karthik291005.github.io/wisecrest/">Live Demo</a> &nbsp;·&nbsp; <a href="https://github.com/Karthik291005/wisecrest">Source Code</a>
 </td>
 <td width="50%" align="center">
-<a href="https://karthik291005.github.io/prasad-s/"><img src="https://raw.githubusercontent.com/Karthik291005/Karthik291005/main/assets/blog.svg" alt="Personal Blog Website" width="100%" /></a><br />
+<a href="https://karthik291005.github.io/prasad-s/"><img src="https://raw.githubusercontent.com/Karthik291005/Karthik291005/main/blog.svg" alt="Personal Blog Website" width="100%" /></a><br />
 <a href="https://karthik291005.github.io/prasad-s/">Live Demo</a> &nbsp;·&nbsp; <a href="https://github.com/Karthik291005/prasad-s">Source Code</a>
 </td>
 </tr>
 <tr>
 <td width="50%" align="center">
-<a href="https://karthik291005.github.io/Portfolio/"><img src="https://raw.githubusercontent.com/Karthik291005/Karthik291005/main/assets/pamu.svg" alt="Portfolio: Dr. Pamu Dobbidi" width="100%" /></a><br />
+<a href="https://karthik291005.github.io/Portfolio/"><img src="https://raw.githubusercontent.com/Karthik291005/Karthik291005/main/pamu.svg" alt="Portfolio: Dr. Pamu Dobbidi" width="100%" /></a><br />
 <a href="https://karthik291005.github.io/Portfolio/">Live Demo</a> &nbsp;·&nbsp; <a href="https://github.com/Karthik291005/Portfolio">Source Code</a>
 </td>
 <td width="50%" align="center">
-<a href="https://karthik291005.github.io/aknuport/"><img src="https://raw.githubusercontent.com/Karthik291005/Karthik291005/main/assets/kalyani.svg" alt="Portfolio: Dr. Kalyani Dasari" width="100%" /></a><br />
+<a href="https://karthik291005.github.io/aknuport/"><img src="https://raw.githubusercontent.com/Karthik291005/Karthik291005/main/kalyani.svg" alt="Portfolio: Dr. Kalyani Dasari" width="100%" /></a><br />
 <a href="https://karthik291005.github.io/aknuport/">Live Demo</a> &nbsp;·&nbsp; <a href="https://github.com/Karthik291005/aknuport">Source Code</a>
 </td>
 </tr>
