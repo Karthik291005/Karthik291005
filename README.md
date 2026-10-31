@@ -5,7 +5,7 @@
 **AI and Data Science** &nbsp;•&nbsp; **Java Full-Stack Developer** &nbsp;•&nbsp; **Research Intern at IIT Guwahati**
 
 <a href="https://karthik291005.github.io/My_Portfolio"><img src="https://img.shields.io/badge/Portfolio-Live-1f6feb?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
-<a href="https://raw.githubusercontent.com/Karthik291005/Karthik291005/main/Banda_Karthik_Resume%20(1).pdf"><img src="https://img.shields.io/badge/Resume-View_PDF-2ea44f?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume" /></a>
+<a href="https://raw.githubusercontent.com/Karthik291005/Karthik291005/main/Banda_Karthik_Resume.pdf"><img src="https://img.shields.io/badge/Resume-View_PDF-2ea44f?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume" /></a>
 <a href="https://www.linkedin.com/in/banda-karthik-1a20752a6/"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:bandakarthik16@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
@@ -145,8 +145,7 @@ I'm a final-year **B.Tech student in AI and Data Science** at **Lakireddy Bali R
 
 | Certification | Issued by | Date | Credential |
 |:--|:--|:--|:-:|
-| **Generative AI Fundamentals** | AWS Academy | Jun 2026 | [View]
-(https://drive.google.com/file/d/1ZpnA8Yxc0T5cOjfTJw6YLtg-Qk-I6Snt/view)|
+| **Generative AI Fundamentals** | AWS Academy | Jun 2026 | [View](https://drive.google.com/file/d/1ZpnA8Yxc0T5cOjfTJw6YLtg-Qk-I6Snt/view)|
 | **Cyber Security Essentials** | Cisco | Aug 2025 | [View](https://drive.google.com/file/d/1Dn6Ug_7vUUJk3OjsdiC5Vil6eSxomKy3/view) |
 | **HTML** | Infosys Springboard | Apr 2025 | [View](https://drive.google.com/file/d/1n9jc9cZbFBaPhjLfKytbXnY7Foa9JjUo/view) |
 | **Python Fundamentals** | Infosys Springboard | Nov 2024 | [View](https://drive.google.com/file/d/1b2YZcubP_NWFRN7DG72XCQ3VeJadVU9Q/view) |
@@ -177,7 +176,7 @@ I'm a final-year **B.Tech student in AI and Data Science** at **Lakireddy Bali R
 <div align="center">
 
 <a href="https://karthik291005.github.io/My_Portfolio"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
-<a href="https://raw.githubusercontent.com/Karthik291005/Karthik291005/main/Banda_Karthik_Resume%20(1).pdf"><img src="https://img.shields.io/badge/Resume-2ea44f?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume" /></a>
+<a href="https://raw.githubusercontent.com/Karthik291005/Karthik291005/main/Banda_Karthik_Resume.pdf"><img src="https://img.shields.io/badge/Resume-2ea44f?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume" /></a>
 <a href="https://www.linkedin.com/in/banda-karthik-1a20752a6/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:bandakarthik16@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
